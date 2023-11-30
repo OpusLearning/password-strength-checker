@@ -35,5 +35,5 @@ This project is open-sourced under the MIT License.
 - This project was created as part of a learning exercise in Python and basic cybersecurity principles.
 
 ## About the Author
-This project was developed by [Your Name or GitHub Username] as part of an ongoing effort to learn and apply skills in Python, cybersecurity, and version control using Git and GitHub.
+This project was developed by OpusLearning as part of an ongoing effort to learn and apply skills in Python, cybersecurity, and version control using Git and GitHub.
 https://github.com/OpusLearning
