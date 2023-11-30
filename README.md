@@ -6,7 +6,7 @@ This project is a simple Python-based password strength checker. It evaluates pa
 ## Features
 - Checks if the password meets the minimum length requirement.
 - Verifies the presence of digits, uppercase and lowercase letters, and special characters.
-- Outputs the strength of the password as either "Weak" or "Strong".
+- Outputs the strength of the password 
 
 ## How to Run the Script
 To run this script, you will need Python installed on your system. Follow these steps:
@@ -35,5 +35,5 @@ This project is open-sourced under the MIT License.
 - This project was created as part of a learning exercise in Python and basic cybersecurity principles.
 
 ## About the Author
-This project was developed by [Your Name or GitHub Username](Your GitHub Profile Link) as part of an ongoing effort to learn and apply skills in Python, cybersecurity, and version control using Git and GitHub.
+This project was developed by [Your Name or GitHub Username] as part of an ongoing effort to learn and apply skills in Python, cybersecurity, and version control using Git and GitHub.
 https://github.com/OpusLearning
